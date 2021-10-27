@@ -1,0 +1,1 @@
+# Napisz program, który obliczy i wypisze na ekran sumę wszystkich elementów listy.
