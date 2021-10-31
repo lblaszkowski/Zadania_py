@@ -1,4 +1,4 @@
-# Określanie roku przestępnego
+# # Napisz funkcję która określy rok przestępny
 # Na podstawie daty, program stwierdza czy jest to rok przestępny czy nie. Zasady liczenia roku przestępnego:
 #
 #     numeracja jest podzielna przez 4 i niepodzielna przez 100, lub

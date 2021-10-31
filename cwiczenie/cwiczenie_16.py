@@ -1,1 +1,1 @@
-# czy liczba jest parzysta
+# Napisz program, który sprawdzi czy liczba jest parzysta w przedziale <1 , 129>

@@ -1,6 +1,12 @@
-liczba = 5
+number = 5
 
-for i in range(1, liczba):
-    liczba -= 1
-    print(i, liczba)
+for i in range(1, number):
+    number -= 1
+    print(i, number)
 
+# lub
+
+# number = 5
+#
+# for i in range(1, number + 1):
+#     print(i, (number + 1) - i)

@@ -1,1 +1,1 @@
-# Posortuj listę
+# Napisz funkcję która posortuj listę
