@@ -1,0 +1,1 @@
+# Napisz program wypisujący wszytkie liczby dwucyfrowe z wykorzystaniem pętli while
