@@ -1,0 +1,1 @@
+# napisz tabliczke mnożenia od 1 do 10 z wykorzystaniem listy

@@ -1,5 +1,3 @@
-# zadanie do poprawki !!!!!! --  do weryfikacji
-
 k = 3
 
 for i in range(0, 15 + 1):

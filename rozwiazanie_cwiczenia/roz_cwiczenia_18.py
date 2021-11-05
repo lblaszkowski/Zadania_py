@@ -6,6 +6,6 @@ for i in range(1, 100 + 1):
         else:
             print(i)
     elif i == 0 or i == 1:
-        print(i, "Podane liczby, to nie liczby pierwsze/a")
+        print(i, "Podane liczby, to nie liczba pierwsza")
     else:
-        print(i, "Podane liczby, to nie liczby pierwsze/a, a liczby/a złożone/a")
+        print(i, "Podane liczba, to nie liczba pierwsza, a liczba złożona")

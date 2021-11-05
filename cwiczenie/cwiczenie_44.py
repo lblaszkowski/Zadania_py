@@ -1,0 +1,1 @@
+# Napisz program wypisujący na ekran słowa 'Tester manualny', ale program ma zostać przerwany po literce 'u'

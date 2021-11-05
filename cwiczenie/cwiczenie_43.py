@@ -1,0 +1,1 @@
+# Napisz program wypisujący liczby naturalne parzyste od liczby podanej przez użytkownika do 0.Wykorzystaj pętle while

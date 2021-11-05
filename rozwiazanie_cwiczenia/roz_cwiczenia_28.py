@@ -1,5 +1,3 @@
-# podaj 3 dowolne liczby i niech program sprawdzi , która z nich jest najwieksza
-
 A = input('Podaj pierwszą z trzech liczb: ')
 B = input('Podaj drugą z trzech liczb: ')
 C = input('Podaj trzecią z trzech liczb: ')

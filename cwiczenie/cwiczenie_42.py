@@ -1,0 +1,1 @@
+# Napisz program obliczający sumę liczb nieparzystych poczynając od liczby x, a kończąc na liczbie y.
