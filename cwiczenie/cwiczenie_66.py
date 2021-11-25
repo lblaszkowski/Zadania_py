@@ -1,0 +1,2 @@
+## Napisz program, który utworzy i wypisze listę 20-elementów z losowych liczb całkowitych z przedziału [1, 100],
+## następnie usunie z listy elementy o wartościach z przedziału [10, 30] oraz wyświetli listę zmodyfikowaną

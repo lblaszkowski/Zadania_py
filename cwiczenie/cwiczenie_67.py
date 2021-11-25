@@ -1,0 +1,1 @@
+# Napisz program, który sprawdzi i wypisze na ekran ilość liczb 3-cyfrowych na liście
