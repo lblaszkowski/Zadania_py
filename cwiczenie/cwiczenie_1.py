@@ -1,1 +1,1 @@
-# Pobieramy od użytkownika 6 cyfr z przedziału od 1 do 50, zapisując jako nową listę.
+## Pobieramy od użytkownika dowolne 6 liczby  i zapisz liczby do  nową listę.

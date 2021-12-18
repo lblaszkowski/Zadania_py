@@ -1,0 +1,1 @@
+### Npisz funkcje, która konwertuje date: 145.253.18 na datę 145/253/18. Data jest przechowywana na liście

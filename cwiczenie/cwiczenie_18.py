@@ -1,3 +1,4 @@
+##----R
 # # Napisz program, który znajdzie Liczby pierwsze z zakresu < 1 - 100 >
 # info:
 # Liczba pierwsza to liczba naturalna większa od 1,

@@ -1,1 +1,1 @@
-# Napisz funkcję która odwróć listę
+# Napisz program, która odwróć listę

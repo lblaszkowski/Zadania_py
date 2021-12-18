@@ -1,0 +1,1 @@
+## Napisz program, który wylosuje 20 liczb z zakresu <1, 100> i zapisze liczby do pliku o nazwie plik_72.txt w katalogu pliki

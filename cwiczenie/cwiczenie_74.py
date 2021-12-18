@@ -1,0 +1,2 @@
+## Napisz program, które generuje liczby całkowite z zakresu <1-100>. Liczby parzyszte  mają być zapisane do pliku
+## "parzyszte.txt", a liczby nieparzyszte mają być zapisane do listy "nieparzyszte.txt"

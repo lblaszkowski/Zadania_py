@@ -1,0 +1,1 @@
+## Napisz program, który sprawdzi różnice  wielkości list, a następnie da odpowiedni komunikat na liście
